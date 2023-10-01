@@ -308,3 +308,11 @@ CNN Tuning
 ../Preprocessing/db6/data_mfccDWTcqtdb6L9.csv,0.2800000011920929
 ../Preprocessing/db6/data_mfccDWTcqtdb6L2.csv,0.41499999165534973
 ../Preprocessing/db6/data_mfccDWTcqtdb6L10.csv,0.2549999952316284
+//LSTM TUNING
+../Preprocessing/db1/data_mfccRMScqtdb1L3.csv,0.46000000834465027
+../Preprocessing/db1/data_mfccRMScqtdb1L9.csv,0.4399999976158142
+../Preprocessing/db1/data_mfccRMScqtdb1L2.csv,0.6399999856948853
+../Preprocessing/db1/data_mfccRMScqtdb1L5.csv,0.47999998927116394
+../Preprocessing/db1/data_mfccRMScqtdb1L8.csv,0.36000001430511475
+../Preprocessing/db1/data_mfccRMScqtdb1L7.csv,0.41999998688697815
+../Preprocessing/db1/data_mfccRMScqtdb1L6.csv,0.5649999976158142
